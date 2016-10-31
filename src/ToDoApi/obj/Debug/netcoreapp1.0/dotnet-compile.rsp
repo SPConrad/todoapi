@@ -177,6 +177,7 @@
 --resource:"C:\Users\sean\Documents\GitHub\ToDoApi\src\ToDoApi\obj\Debug\netcoreapp1.0\ToDoApidotnet-compile.deps.json",ToDoApi.deps.json
 C:\Users\sean\Documents\GitHub\ToDoApi\src\ToDoApi\Program.cs
 C:\Users\sean\Documents\GitHub\ToDoApi\src\ToDoApi\Startup.cs
+C:\Users\sean\Documents\GitHub\ToDoApi\src\ToDoApi\Controllers\TodoController.cs
 C:\Users\sean\Documents\GitHub\ToDoApi\src\ToDoApi\Controllers\ValuesController.cs
 C:\Users\sean\Documents\GitHub\ToDoApi\src\ToDoApi\models\ITodoRepository.cs
 C:\Users\sean\Documents\GitHub\ToDoApi\src\ToDoApi\models\ToDoItem.cs
